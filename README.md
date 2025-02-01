@@ -1,6 +1,8 @@
 # drord
 Doubly robust estimators for (of) ordinal outcomes treatment effects Use drord With (In) R Software
 
+https://www.youtube.com/watch?v=VGx-Oxbobgo
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
